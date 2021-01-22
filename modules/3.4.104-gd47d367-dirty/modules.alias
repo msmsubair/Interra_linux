@@ -1,0 +1,23 @@
+# Aliases extracted from modules themselves.
+alias platform:platform-lcd platform_lcd
+alias platform:mali_drm mali_drm
+alias platform:sw-keypad sun4i_keypad
+alias i2c:hv_keypad hv2605
+alias i2c:ft5x_ts ft5x_ts
+alias i2c:zt8031 zt8031
+alias i2c:ov7670 ov7670
+alias i2c:gt2005 gt2005
+alias i2c:gc0308 gc0308
+alias i2c:hi704 hi704
+alias i2c:sp0838 sp0838
+alias i2c:mt9m112 mt9m112
+alias i2c:mt9m113 mt9m113
+alias i2c:ov2655 ov2655
+alias i2c:hi253 hi253
+alias i2c:mt9d112 mt9d112
+alias i2c:gc0307 gc0307
+alias i2c:ov5640 ov5640
+alias hid:b0003v0000046Dp0000C532 hid_logitech_dj
+alias hid:b0003v0000046Dp0000C52B hid_logitech_dj
+alias platform:sunxi-spdif sunxi_spdif
+alias platform:sunxi-spdif-codec sndspdif
